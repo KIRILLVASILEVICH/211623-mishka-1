@@ -1,0 +1,21 @@
+.catalog {
+  @include centrify-all;
+  display: flex;
+  flex-direction: column;
+}
+
+@media #{$tablet} {
+  .catalog {
+    margin-top: 25px;
+    margin-bottom: 53px;
+  }
+}
+
+@media #{$desktop} {
+  .catalog {
+    margin-top: 130px;
+    margin-bottom: 57px;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}

@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Кирилл Сундаен](https://up.htmlacademy.ru/adaptive/10/user/211623).
-* Наставник: `Кексик`.
+* Студент: [Александр Адамант](https://up.htmlacademy.ru/adaptive/9/user/251115).
+* Наставник: [Сергей Кравченко](https://htmlacademy.ru/profile/id13921).
 
 ---
 
@@ -55,7 +55,7 @@ git clone SSH-адрес_вашего_форка
 
 Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Продвинутый HTML и CSS](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
 
-[travis-image]: https://travis-ci.org/htmlacademy-adaptive/211623-mishka.svg?branch=master
-[travis-url]: https://travis-ci.org/htmlacademy-adaptive/211623-mishka
-[dependency-image]: https://david-dm.org/htmlacademy-adaptive/211623-mishka/dev-status.svg?style=flat-square
-[dependency-url]: https://david-dm.org/htmlacademy-adaptive/211623-mishka?type=dev
+[travis-image]: https://travis-ci.org/htmlacademy-adaptive/251115-mishka.svg?branch=master
+[travis-url]: https://travis-ci.org/htmlacademy-adaptive/251115-mishka
+[dependency-image]: https://david-dm.org/htmlacademy-adaptive/251115-mishka/dev-status.svg?style=flat-square
+[dependency-url]: https://david-dm.org/htmlacademy-adaptive/251115-mishka?type=dev
